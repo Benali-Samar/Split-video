@@ -1,0 +1,19 @@
+
+
+
+		#This file contain FFMPEG sources That i used to split videos
+
+
+# FFMPEG documentation manual:
+	
+	1- http://underpop.online.fr/f/ffmpeg/
+	2- http://underpop.online.fr/f/ffmpeg/help/rawvideo-1.htm.gz
+
+#FFMPEG split usage:
+
+	1- https://dc.wondershare.fr/video-editor/ffmpeg-trim-video.html
+	2- https://superuser.com/questions/31135/split-mpeg-video-from-command-line
+	3- https://superuser.com/questions/322354/using-ffmpeg-to-encode-a-raw-video-to-h-264-format
+
+
+
